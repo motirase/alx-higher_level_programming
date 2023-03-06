@@ -1,1 +1,2 @@
-0x00. Python - Hello, World MEGERSA
+0x00. Python - Hello, World
+LUNES
