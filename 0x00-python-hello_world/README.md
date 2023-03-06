@@ -1,1 +1,1 @@
- this is shell script to run pthon file
+0x00. Python - Hello, World MEGERSA
