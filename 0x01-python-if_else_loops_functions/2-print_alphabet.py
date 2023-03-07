@@ -1,2 +1,2 @@
-for ch in range(97,122):
-    print("{:s}".format(str(ch)),end="")
+for ch in range(97, 123):
+    print("ASCII value: " + str(ch) + ", Character: ", chr(ch))
