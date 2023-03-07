@@ -1,2 +1,2 @@
-for a in range(ord('a'), ord('z')+1):
-    print("{:s}".format(chr(a)),end="")
+for ch in range(97,122):
+    print("{:s}".format(str(ch)),end="")
