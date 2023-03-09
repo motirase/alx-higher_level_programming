@@ -4,7 +4,7 @@ if __name__ == "__main__":
     argv = sys.argv[1:]
     argv_count = len(argv)
     index = 1
-    if argv_count is 0:
+    if argv_count == 0:
         print("{:d} arguments.".format(argv_count))
     elif argv_count == 1:
         print("{:d} argument:".format(argv_count))
