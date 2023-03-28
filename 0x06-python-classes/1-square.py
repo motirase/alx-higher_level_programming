@@ -1,8 +1,6 @@
 #!/usr/bin/pyhton3
-#defining class
+## 1-square.py
 #this code is writtern by motirase2020@gmail.com
-#!/usr/bin/python3
-# 1-square.py
 """Define a class Square."""
 
 
