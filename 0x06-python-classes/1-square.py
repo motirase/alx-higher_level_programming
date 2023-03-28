@@ -1,6 +1,6 @@
-#!/usr/bin/pyhton3
-## 1-square.py
-#this code is writtern by motirase2020@gmail.com
+#!/usr/bin/python3
+# 1-square.py
+#Megersa Oljira
 """Define a class Square."""
 
 
