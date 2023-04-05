@@ -1,6 +1,6 @@
 /*
  * File: 102-python.c
- * Auth: wakjira Bekele<wakjirabekele2018@gmail.com>
+ * Auth: Megersa Oljira<motirase2022@gmail.com>
  */
 
 #include "Python.h"
