@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 2-matrix_divided.py
-# Megersa Oljira<motirase20228@gmail.com>
+# wakjira Bekele<wakjirabekele2018@gmail.com>
 """Defines a matrix division function."""
 
 
