@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 9-rectangle.py
-# Wakjira Bekele <wakjirabekele2018@gmail.com>
+# Megersa Oljira <motirase2022@gmail.com>
 """Defines a Rectangle class."""
 
 
