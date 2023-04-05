@@ -1,5 +1,6 @@
 #!/usr/bin/python3
-"""Unittest for max_integer([..])
+# Megersa Oljira<motirase2022@@gmail.com>
+"""Module to find the max integer in a list
 """
 
 
