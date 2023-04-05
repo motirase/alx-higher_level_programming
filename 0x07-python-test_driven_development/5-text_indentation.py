@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 5-text_indentation.py
-# megersa oljira<motirase2022@gmail.com>
+# Megersa Oljira<motirase2022@gmail.com>
 """Defines a text-indentation function."""
 
 
