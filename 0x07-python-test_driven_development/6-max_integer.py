@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# wakjira Bekele<wakjirabekele2018@gmail.com>
+# Megersa Oljira<motirase2022@gmail.com>
 """Module to find the max integer in a list
 """
 
