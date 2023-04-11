@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 8-load_from_json_file.py
-# wakjira Bekele <wakjirabekele2018@gmial.com>
+# Megersa Oljira <motirase2022@gmial.com>
 """Defines a JSON file-reading function."""
 import json
 
