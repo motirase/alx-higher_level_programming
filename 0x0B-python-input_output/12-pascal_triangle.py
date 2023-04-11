@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 12-pascal_triangle.py
-# wakjira Bekele <wakjirabekele2018@gmial.com>
+# Megersa Oljira <motirase2022@gmial.com>
 """Defines a Pascal's Triangle function."""
 
 
