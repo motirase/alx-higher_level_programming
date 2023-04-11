@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 100-append_after.py
-# wakjira Bekele <wakjirabekele2018@gmial.com>
+# Megersa Oljira <motirase2022@gmial.com>
 """Defines a text file insertion function."""
 
 
