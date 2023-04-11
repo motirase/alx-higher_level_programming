@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 4-append_write.py
-# wakjira Bekele <wakjirabekele2018@gmial.com>
+# Megersa Oljira <motirase2022@gmial.com>
 """Defines a file-appending function."""
 
 
