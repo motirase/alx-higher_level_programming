@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 2-read_lines.py
-# wakjira Bekele <wakjirabekele2018@gmial.com>
+# Megersa Oljira <motirase2022@gmial.com>
 """Defines a text file-reading function."""
 
 
