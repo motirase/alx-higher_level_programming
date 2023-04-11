@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 3-write_file.py
-# wakjira Bekele <wakjirabekele2018@gmial.com>
+# Megersa Oljira <motirase2022@gmial.com>
 """Defines a file-writing function."""
 
 
